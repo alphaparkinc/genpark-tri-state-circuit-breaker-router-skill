@@ -1,0 +1,9 @@
+{
+  "name": "genpark-tri-state-circuit-breaker-router-skill",
+  "version": "1.0.1",
+  "description": "Tri-state circuit breaker router managing LLM provider failure cascades, sliding error windows, and half-open probes",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
