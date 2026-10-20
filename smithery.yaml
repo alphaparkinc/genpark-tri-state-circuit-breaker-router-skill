@@ -1,0 +1,7 @@
+name: genpark-tri-state-circuit-breaker-router-skill
+description: Tri-state circuit breaker router managing LLM provider failure cascades, sliding error windows, and half-open probes
+version: 1.0.1
+entrypoint: mcp_server.py
+command: python
+args:
+  - mcp_server.py
